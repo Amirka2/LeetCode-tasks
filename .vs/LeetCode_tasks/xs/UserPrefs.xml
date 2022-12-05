@@ -1,5 +1,6 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{0483F0A9-6AFD-40E3-A14C-F6EB174F8057}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.easy.LongestCommonPrefix_228easy_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.hard.MedianOf2SortedArray_228hard_229 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.easy.RomanToInt_228easy_229 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

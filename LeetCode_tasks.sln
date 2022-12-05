@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix(easy)",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "easy", "easy", "{7AFEC2F1-02D1-409D-8FEE-8BEE51CFA950}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "medium", "medium", "{FA966353-F1F2-4934-89CD-E240C08EA388}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "hard", "hard", "{B5B0BC49-127C-4EA4-B218-74E47A881ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianOf2SortedArray(hard)", "MedianOf2SortedArray(hard)\MedianOf2SortedArray(hard).csproj", "{3A012732-84DC-4C84-A073-43E825C78049}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +29,10 @@ Global
 		{AD40E231-0CF3-48CF-B2AC-6F2FABCF30BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD40E231-0CF3-48CF-B2AC-6F2FABCF30BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD40E231-0CF3-48CF-B2AC-6F2FABCF30BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A012732-84DC-4C84-A073-43E825C78049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A012732-84DC-4C84-A073-43E825C78049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A012732-84DC-4C84-A073-43E825C78049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A012732-84DC-4C84-A073-43E825C78049}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -33,5 +43,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{AD40E231-0CF3-48CF-B2AC-6F2FABCF30BF} = {7AFEC2F1-02D1-409D-8FEE-8BEE51CFA950}
 		{0483F0A9-6AFD-40E3-A14C-F6EB174F8057} = {7AFEC2F1-02D1-409D-8FEE-8BEE51CFA950}
+		{3A012732-84DC-4C84-A073-43E825C78049} = {B5B0BC49-127C-4EA4-B218-74E47A881ACB}
 	EndGlobalSection
 EndGlobal
