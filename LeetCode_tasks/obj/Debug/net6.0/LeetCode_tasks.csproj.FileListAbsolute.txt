@@ -1,0 +1,15 @@
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/bin/Debug/net6.0/LeetCode_tasks
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/bin/Debug/net6.0/LeetCode_tasks.deps.json
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/bin/Debug/net6.0/LeetCode_tasks.runtimeconfig.json
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/bin/Debug/net6.0/LeetCode_tasks.dll
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/bin/Debug/net6.0/LeetCode_tasks.pdb
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/obj/Debug/net6.0/LeetCode_tasks.csproj.AssemblyReference.cache
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/obj/Debug/net6.0/LeetCode_tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/obj/Debug/net6.0/LeetCode_tasks.AssemblyInfoInputs.cache
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/obj/Debug/net6.0/LeetCode_tasks.AssemblyInfo.cs
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/obj/Debug/net6.0/LeetCode_tasks.csproj.CoreCompileInputs.cache
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/obj/Debug/net6.0/LeetCode_tasks.dll
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/obj/Debug/net6.0/refint/LeetCode_tasks.dll
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/obj/Debug/net6.0/LeetCode_tasks.pdb
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/obj/Debug/net6.0/LeetCode_tasks.genruntimeconfig.cache
+/Users/amir/Projects/LeetCode_tasks/LeetCode_tasks/obj/Debug/net6.0/ref/LeetCode_tasks.dll
