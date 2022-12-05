@@ -3,7 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        var s = LongestCommonPrefix("flower", "flow", "flight");
+        var s = LongestCommonPrefix("flower", "flow", "flight"); 
     }
     public static string LongestCommonPrefix(params string[] strs)
     {
