@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PNTRj71q2PFnEVDMvDPgJquoIQm3O4F631UfqHwCqylq8Mvj+GDSB3O864oizkVWt48GjcF3d1VtCTUiwrIt1g==",
+  "dgSpecHash": "bDzBeajSCHQ4OBjw8q4PNGyRuR+4IETpkuqNPZKE3TljKA+4OU1TmXoPJmBmCkF311lBzW17Zwdi7J1GqANFkA==",
   "success": true,
-  "projectFilePath": "/Users/amir/Projects/LeetCode-tasks/LongestCommonPrefix/LongestCommonPrefix.csproj",
+  "projectFilePath": "/Users/amir/Projects/LeetCode-tasks/LongestCommonPrefix/LongestCommonPrefix(easy).csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

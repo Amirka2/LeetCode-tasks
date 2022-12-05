@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amir/Projects/LeetCode-tasks/LongestCommonPrefix/LongestCommonPrefix.csproj",
-      "projectName": "LongestCommonPrefix",
-      "projectPath": "/Users/amir/Projects/LeetCode-tasks/LongestCommonPrefix/LongestCommonPrefix.csproj",
+      "projectUniqueName": "/Users/amir/Projects/LeetCode-tasks/LongestCommonPrefix/LongestCommonPrefix(easy).csproj",
+      "projectName": "LongestCommonPrefix(easy)",
+      "projectPath": "/Users/amir/Projects/LeetCode-tasks/LongestCommonPrefix/LongestCommonPrefix(easy).csproj",
       "packagesPath": "/Users/amir/.nuget/packages/",
       "outputPath": "/Users/amir/Projects/LeetCode-tasks/LongestCommonPrefix/obj/",
       "projectStyle": "PackageReference",

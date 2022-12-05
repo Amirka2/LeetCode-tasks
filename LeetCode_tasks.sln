@@ -5,7 +5,7 @@ VisualStudioVersion = 25.0.1704.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInt(easy)", "RomanToInt(easy)\RomanToInt(easy).csproj", "{0483F0A9-6AFD-40E3-A14C-F6EB174F8057}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{AD40E231-0CF3-48CF-B2AC-6F2FABCF30BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix(easy)", "LongestCommonPrefix\LongestCommonPrefix(easy).csproj", "{AD40E231-0CF3-48CF-B2AC-6F2FABCF30BF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "easy", "easy", "{7AFEC2F1-02D1-409D-8FEE-8BEE51CFA950}"
 EndProject
